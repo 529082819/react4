@@ -1,7 +1,7 @@
 {
-  "name": "mtf.ehr.fuli",
+  "name": "mtf",
   "version": "1.0.0",
-  "description": "采用新mtd开发社保福利项目，入口在ehr.sankuai.com中。",
+  "description": "采用新",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,13 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@git.sankuai.com/hrdev/mtf.ehr.fuli.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ss/mtd-react": "0.0.0-6",
-    "mtf.utils": "git+ssh://git@git.sankuai.com/staf/mtf.utils.git#master",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-router": "^4.3.1",
